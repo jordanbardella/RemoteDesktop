@@ -17,7 +17,7 @@ To use RemoteDesktop, follow these steps:
    cd RemoteDesktop
 
 2. **Install Dependencies:**
-   pip install -r requirements.txt
+   pip install -r webview
 
 3. **Run the Application:**
    python main.py
