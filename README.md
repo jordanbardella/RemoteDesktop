@@ -13,7 +13,7 @@ RemoteDesktop is a free remote desktop solution that allows unlimited 15-minute 
 To use RemoteDesktop, follow these steps:
 
 1. **Clone the Repository:**
-   git clone https://github.com/your-username/RemoteDesktop.git
+   git clone https://github.com/jordanbardella/RemoteDesktop.git
    cd RemoteDesktop
 
 2. **Install Dependencies:**
