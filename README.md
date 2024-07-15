@@ -4,6 +4,9 @@ RemoteDesktop is a free remote desktop solution that allows unlimited 15-minute 
 
 **Note:** The Python code has been obfuscated to protect intellectual property.
 
+## Preview
+![image](https://github.com/user-attachments/assets/9030c3f4-6720-47b8-9ff5-13a2142c7a47)
+
 ## Features
 - Free remote desktop access.
 - Unlimited sessions of up to 15 minutes each.
