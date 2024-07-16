@@ -6,6 +6,7 @@ RemoteDesktop is a free remote desktop solution that allows unlimited 15-minute 
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/9030c3f4-6720-47b8-9ff5-13a2142c7a47)
+![image](https://github.com/user-attachments/assets/0ecf4ae3-1b5c-4a12-954a-4017e2f14ea4)
 
 ## Features
 - Free remote desktop access.
