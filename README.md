@@ -23,7 +23,7 @@ To use RemoteDesktop, follow these steps:
    pip install webview
 
 3. **Run the Application:**
-   python main.py
+   python rdp.py
    
 <body>
   <h2>License</h2>
