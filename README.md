@@ -20,7 +20,7 @@ To use RemoteDesktop, follow these steps:
    cd RemoteDesktop
 
 2. **Install Dependencies:**
-   pip install webview
+   pip install pywebview
 
 3. **Run the Application:**
    python rdp.py
